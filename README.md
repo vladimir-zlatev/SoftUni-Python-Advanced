@@ -5,3 +5,4 @@ Added Lists as Stacks and Queues - Lab:
     - Added Matching Parentheses
     - Added Supermarket
     - Added Water Dispenser
+    - Added Hot Potato

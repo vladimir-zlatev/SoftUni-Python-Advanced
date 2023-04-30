@@ -6,3 +6,4 @@ Added Lists as Stacks and Queues - Lab:
     - Added Supermarket
     - Added Water Dispenser
     - Added Hot Potato
+Added Lists as Stacks and Queues - Exercise:

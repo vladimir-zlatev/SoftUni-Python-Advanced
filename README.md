@@ -7,3 +7,5 @@ Added Lists as Stacks and Queues - Lab:
     - Added Water Dispenser
     - Added Hot Potato
 Added Lists as Stacks and Queues - Exercise:
+    - Added Reverse Numbers
+

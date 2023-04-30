@@ -8,4 +8,6 @@ Added Lists as Stacks and Queues - Lab:
     - Added Hot Potato
 Added Lists as Stacks and Queues - Exercise:
     - Added Reverse Numbers
+    - Added Stacked Queries
+
 

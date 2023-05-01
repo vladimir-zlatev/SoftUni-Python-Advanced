@@ -12,5 +12,8 @@ Added Lists as Stacks and Queues - Exercise:
     - Added Fast Food
     - Added Fashion Boutique
     - Added Truck Tour
+    - Added Balanced Parentheses
+    - Added Robotics
+
 
 

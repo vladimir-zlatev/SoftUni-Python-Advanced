@@ -9,5 +9,6 @@ Added Lists as Stacks and Queues - Lab:
 Added Lists as Stacks and Queues - Exercise:
     - Added Reverse Numbers
     - Added Stacked Queries
+    - Added Fast Food
 
 

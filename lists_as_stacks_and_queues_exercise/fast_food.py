@@ -2,7 +2,7 @@ from collections import deque
 
 food = int(input())
 
-orders = deque(int(x) for x in input().split(" "))
+orders = deque([int(x) for x in input().split(" ")])
 
 if orders:
     print(max(orders))

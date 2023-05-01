@@ -10,5 +10,7 @@ Added Lists as Stacks and Queues - Exercise:
     - Added Reverse Numbers
     - Added Stacked Queries
     - Added Fast Food
+    - Added Fashion Boutique
+    - Added Truck Tour
 
 

@@ -8,6 +8,7 @@ Added Lists as Stacks and Queues - Lab:
     - Added Hot Potato
     - Added Reverse Strings 1
     - Added Matching Parentheses 1
+    - Added Supermarket 1
 Added Lists as Stacks and Queues - Exercise:
     - Added Reverse Numbers
     - Added Stacked Queries

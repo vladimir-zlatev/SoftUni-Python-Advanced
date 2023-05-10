@@ -6,6 +6,7 @@ Added Lists as Stacks and Queues - Lab:
     - Added Supermarket
     - Added Water Dispenser
     - Added Hot Potato
+    - Added Reverse Strings 1
 Added Lists as Stacks and Queues - Exercise:
     - Added Reverse Numbers
     - Added Stacked Queries

@@ -20,6 +20,9 @@ Added Lists as Stacks and Queues - Exercise:
     - Added Balanced Parentheses
     - Added Robotics
     - Added Reverse Numbers 1
+    - Added Stacked Queries 1
+Added Variants:
+    - Added Stacked Queries 2
 
 
 

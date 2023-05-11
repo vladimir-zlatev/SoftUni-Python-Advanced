@@ -19,6 +19,7 @@ Added Lists as Stacks and Queues - Exercise:
     - Added Truck Tour
     - Added Balanced Parentheses
     - Added Robotics
+    - Added Reverse Numbers 1
 
 
 

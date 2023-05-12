@@ -21,6 +21,8 @@ Added Lists as Stacks and Queues - Exercise:
     - Added Robotics
     - Added Reverse Numbers 1
     - Added Stacked Queries 1
+    - Added Fast Food 1
+    - Added Fashion Boutique 1
 Added Variants:
     - Added Stacked Queries 2
 

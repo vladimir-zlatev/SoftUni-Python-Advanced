@@ -28,6 +28,8 @@ Added Lists as Stacks and Queues - Exercise:
     - Added Cups and Bottles
 Added Variants:
     - Added Stacked Queries 2
+Tuples and Sets - Lab
+    - Added Count Same Values
 
 
 

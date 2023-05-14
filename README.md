@@ -24,6 +24,7 @@ Added Lists as Stacks and Queues - Exercise:
     - Added Fast Food 1
     - Added Fashion Boutique 1
     - Added Truck Tour 1
+    - Added Balanced Parentheses 1
 Added Variants:
     - Added Stacked Queries 2
 

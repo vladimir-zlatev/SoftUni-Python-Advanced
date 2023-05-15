@@ -34,4 +34,7 @@ Tuples and Sets - Lab
     - Added Record Unique Names
     - Added Parking Lot
     - Added SoftUni Party
+Tuples and Sets - Exercise
+    - Added Unique Usernames
+    - Added Sets of Elements
 

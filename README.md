@@ -40,4 +40,5 @@ Tuples and Sets - Exercise
     - Added Periodic Table
     - Added Count Symbols
     - Added Longest Intersection
+    - Added Battle of Names
 

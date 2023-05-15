@@ -33,4 +33,5 @@ Tuples and Sets - Lab
     - Added Students' Grades
     - Added Record Unique Names
     - Added Parking Lot
+    - Added SoftUni Party
 

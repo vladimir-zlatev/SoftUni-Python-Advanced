@@ -39,4 +39,5 @@ Tuples and Sets - Exercise
     - Added Sets of Elements
     - Added Periodic Table
     - Added Count Symbols
+    - Added Longest Intersection
 

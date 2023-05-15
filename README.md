@@ -32,4 +32,5 @@ Tuples and Sets - Lab
     - Added Count Same Values
     - Added Students' Grades
     - Added Record Unique Names
+    - Added Parking Lot
 

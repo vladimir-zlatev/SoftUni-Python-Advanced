@@ -38,4 +38,5 @@ Tuples and Sets - Exercise
     - Added Unique Usernames
     - Added Sets of Elements
     - Added Periodic Table
+    - Added Count Symbols
 

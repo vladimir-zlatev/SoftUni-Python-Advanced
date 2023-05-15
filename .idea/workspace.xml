@@ -39,8 +39,8 @@
       <recent name="C:\Users\vzlatev\Desktop\GitHub\SoftUni-Python-Advanced\variants" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.periodic_table">
-    <configuration name="parking_lot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.count_symbols">
+    <configuration name="count_symbols" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Python-Advanced" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,11 +48,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tuples_and_sets_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tuples_and_sets_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuples_and_sets_lab/parking_lot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuples_and_sets_exercise/count_symbols.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.count_symbols" />
         <item itemvalue="Python.periodic_table" />
         <item itemvalue="Python.sets_of_elements" />
         <item itemvalue="Python.unique_usernames" />
         <item itemvalue="Python.softuni_party" />
-        <item itemvalue="Python.parking_lot" />
       </list>
     </recent_temporary>
   </component>

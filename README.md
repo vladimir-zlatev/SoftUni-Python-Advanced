@@ -37,4 +37,5 @@ Tuples and Sets - Lab
 Tuples and Sets - Exercise
     - Added Unique Usernames
     - Added Sets of Elements
+    - Added Periodic Table
 

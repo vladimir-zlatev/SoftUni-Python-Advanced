@@ -46,4 +46,5 @@ Multidimensional Lists - Lab
     - Added Even Matrix
     - Added Flattening Matrix
     - Added Flattening Matrix 1
+    - Added Matrix Print Template
 

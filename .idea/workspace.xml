@@ -39,7 +39,7 @@
       <recent name="C:\Users\vzlatev\Desktop\GitHub\SoftUni-Python-Advanced\variants" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.battle_of_names">
+  <component name="RunManager" selected="Python.sum_matrix_elements">
     <configuration name="battle_of_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Python-Advanced" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sets_of_elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sum_matrix_elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Python-Advanced" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tuples_and_sets_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multidimensional_lists_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuples_and_sets_exercise/sets_of_elements.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multidimensional_lists_lab/sum_matrix_elements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sum_matrix_elements" />
         <item itemvalue="Python.battle_of_names" />
         <item itemvalue="Python.longest_intersection" />
         <item itemvalue="Python.count_symbols" />
         <item itemvalue="Python.periodic_table" />
-        <item itemvalue="Python.sets_of_elements" />
       </list>
     </recent_temporary>
   </component>

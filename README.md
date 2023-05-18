@@ -41,4 +41,6 @@ Tuples and Sets - Exercise
     - Added Count Symbols
     - Added Longest Intersection
     - Added Battle of Names
+Multidimensional Lists - Lab
+    - Added Sum Matrix Elements
 

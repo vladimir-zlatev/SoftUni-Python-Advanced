@@ -45,4 +45,5 @@ Multidimensional Lists - Lab
     - Added Sum Matrix Elements
     - Added Even Matrix
     - Added Flattening Matrix
+    - Added Flattening Matrix 1
 

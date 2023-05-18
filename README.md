@@ -43,4 +43,6 @@ Tuples and Sets - Exercise
     - Added Battle of Names
 Multidimensional Lists - Lab
     - Added Sum Matrix Elements
+    - Added Even Matrix
+    - Added Flattening Matrix
 

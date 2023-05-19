@@ -50,5 +50,7 @@ Multidimensional Lists - Lab
     - Added Sum Matrix Columns
     - Added Primary Diagonal
     - Added Symbol in Matrix
+    - Added Square with Maximum Sum
+
 
 

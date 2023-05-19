@@ -47,4 +47,8 @@ Multidimensional Lists - Lab
     - Added Flattening Matrix
     - Added Flattening Matrix 1
     - Added Matrix Print Template
+    - Added Sum Matrix Columns
+    - Added Primary Diagonal
+    - Added Symbol in Matrix
+
 

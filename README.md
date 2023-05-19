@@ -51,6 +51,8 @@ Multidimensional Lists - Lab
     - Added Primary Diagonal
     - Added Symbol in Matrix
     - Added Square with Maximum Sum
+Multidimensional Lists - Exercise 1
+    - Added Diagonals
 
 
 

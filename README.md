@@ -52,12 +52,12 @@ Multidimensional Lists - Lab
     - Added Symbol in Matrix
     - Added Square with Maximum Sum
 Multidimensional Lists - Exercise 1
-    - Added Diagonals
-    - Added Diagonal Difference
+- Added Diagonal Difference
     - Added 2x2 Squares in Matrix
     - Added Maximal Sum
     - Added Matrix of Palindromes
     - Added Matrix Shuffling
+    - Added Snake Moves
 
 
 

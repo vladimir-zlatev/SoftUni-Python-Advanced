@@ -56,6 +56,8 @@ Multidimensional Lists - Exercise 1
     - Added Diagonal Difference
     - Added 2x2 Squares in Matrix
     - Added Maximal Sum
+    - Added Matrix of Palindromes
+    - Added Matrix Shuffling
 
 
 

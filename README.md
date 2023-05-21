@@ -54,6 +54,8 @@ Multidimensional Lists - Lab
 Multidimensional Lists - Exercise 1
     - Added Diagonals
     - Added Diagonal Difference
+    - Added 2x2 Squares in Matrix
+    - Added Maximal Sum
 
 
 

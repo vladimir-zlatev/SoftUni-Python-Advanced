@@ -39,8 +39,8 @@
       <recent name="C:\Users\vzlatev\Desktop\GitHub\SoftUni-Python-Advanced\variants" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.snake_moves">
-    <configuration name="2x2_squares_in_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.bombs">
+    <configuration name="bombs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni-Python-Advanced" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,7 +52,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multidimensional_lists_exercise_1/2x2_squares_in_matrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multidimensional_lists_exercise_1/bombs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bombs" />
         <item itemvalue="Python.snake_moves" />
         <item itemvalue="Python.matrix_shuffling" />
         <item itemvalue="Python.matrix_of_palindromes" />
         <item itemvalue="Python.maximal_sum" />
-        <item itemvalue="Python.2x2_squares_in_matrix" />
       </list>
     </recent_temporary>
   </component>
@@ -209,6 +209,11 @@
           <url>file://$PROJECT_DIR$/lists_as_stacks_and_queues_exercise/balanced_parentheses_1.py</url>
           <line>8</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/multidimensional_lists_exercise_1/bombs.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

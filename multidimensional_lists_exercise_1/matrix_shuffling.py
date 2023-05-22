@@ -26,4 +26,4 @@ while True:
     if command_type == "END":
         break
 
-    check_command(command_type, info_list)0
+    check_command(command_type, info_list)

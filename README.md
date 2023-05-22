@@ -52,7 +52,7 @@ Multidimensional Lists - Lab
     - Added Symbol in Matrix
     - Added Square with Maximum Sum
 Multidimensional Lists - Exercise 1
-- Added Diagonal Difference
+    - Added Diagonal Difference
     - Added 2x2 Squares in Matrix
     - Added Maximal Sum
     - Added Matrix of Palindromes
@@ -60,6 +60,7 @@ Multidimensional Lists - Exercise 1
     - Added Snake Moves
     - Added Bombs
     - Added Radioactive Mutant Vampire Bunnies
-
+Multidimensional Lists - Exercise 2
+    - Added Flatten Lists
 
 

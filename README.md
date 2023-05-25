@@ -63,5 +63,8 @@ Multidimensional Lists - Exercise 1
 Multidimensional Lists - Exercise 2
     - Added Flatten Lists
     - Added Matrix Modification
+Functions Advanced - Lab
+    - Added Multiplication Function
+    - Added Person Info
 
 

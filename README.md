@@ -69,5 +69,6 @@ Functions Advanced - Lab
     - Added Cheese Showcase
     - Added Rectangle
     - Added Recursive Power
+    - Added Operate
 
 

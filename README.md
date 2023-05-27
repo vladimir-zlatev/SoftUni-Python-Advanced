@@ -67,5 +67,7 @@ Functions Advanced - Lab
     - Added Multiplication Function
     - Added Person Info
     - Added Cheese Showcase
+    - Added Rectangle
+    - Added Recursive Power
 
 

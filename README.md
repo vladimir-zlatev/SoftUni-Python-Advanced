@@ -70,5 +70,7 @@ Functions Advanced - Lab
     - Added Rectangle
     - Added Recursive Power
     - Added Operate
-
+    - Added Recursive Power
+Functions Advanced - Exercise
+    - Added Negative vs Positive
 

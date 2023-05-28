@@ -77,3 +77,5 @@ Functions Advanced - Exercise
     - Added Even or Odd
     - Added Numbers Filter
     - Added Concatenate
+    - Added Function Executor
+    - Added Grocery

@@ -75,3 +75,5 @@ Functions Advanced - Exercise
     - Added Negative vs Positive
     - Added Keyword Arguments Length
     - Added Even or Odd
+    - Added Numbers Filter
+    - Added Concatenate

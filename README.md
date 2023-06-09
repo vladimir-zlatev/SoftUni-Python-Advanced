@@ -81,5 +81,6 @@ Functions Advanced - Exercise
     - Added Grocery
     - Added Age Assignment
     - Added Recursion Palindrome
-
+Exercise: Error Handling
+    - Added Numbers Dictionary
 

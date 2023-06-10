@@ -9,4 +9,6 @@
 .txt
 - - - example.txt
 - - - output.txt
+- - - output_file.txt
+- - - report.txt
 - - - text.txt

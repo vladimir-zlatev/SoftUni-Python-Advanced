@@ -83,4 +83,18 @@ Functions Advanced - Exercise
     - Added Recursion Palindrome
 Exercise: Error Handling
     - Added Numbers Dictionary
-
+Exam:
+    - Added Exam
+    - Added Enrollment
+    - Added Mouse In The Kitchen
+Multidimensional Lists Exercise 1:
+    - Added 2x2 Squares In Matrix
+    - Added 2x2 Squares In Matrix 1
+    - Added Bombs
+    - Added Bombs 1
+    - Added Diagonal Difference
+    - Added Diagonal Difference 1
+    - Added Diagonals
+    - Added Diagonals 1
+    - Added Matrix Of Palindromes
+    - Added Matrix Of Palindromes 1
